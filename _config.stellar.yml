@@ -1,0 +1,25 @@
+
+article:
+  auto_cover: false
+  type: story
+
+menubar:
+  columns: 4
+  items:
+    - id: family
+      theme: '#18CDFC'
+      title: 成员
+      icon: ''
+      url: /family/
+    - id: timeline
+      theme: '#3DC550'
+      title: 时间线
+      icon: ''
+      url: /timeline/
+    - id: about
+      theme: '#F44336'
+      title: 关于
+      icon: ''
+      url: /about/
+logo:
+  subtitle: '定位人生，瞄准方向 | 自我挑战，共创辉煌'
