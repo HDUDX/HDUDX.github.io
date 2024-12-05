@@ -6,6 +6,11 @@ article:
 menubar:
   columns: 4
   items:
+    - id: home
+      theme: '#FFFFFF'
+      title: 主页
+      icon:
+      url: /
     - id: family
       theme: '#18CDFC'
       title: 成员
@@ -23,3 +28,17 @@ menubar:
       url: /about/
 logo:
   subtitle: '定位人生，瞄准方向 | 自我挑战，共创辉煌'
+
+site_tree:
+  home:
+    leftbar: ghuser
+    rightbar: 
+  post:
+    menu_id: post
+    leftbar: ghuser
+    rightbar:
+  family:
+    menu_id: family
+    leftbar: ghuser
+    rightbar:
+
