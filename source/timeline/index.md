@@ -19,6 +19,22 @@ date: 2024-12-05 14:45:45
 {% image /asset/img/2024-11-22/together.jpg 这是谁修的图？ download:/asset/img/2024-11-22/together.jpg%}
 {% endtabs %}
 {% endbox %}
+{% swiper effect:cards %}
+![@曹舒茗](/asset/img/2024-11-22/Certify/获奖证明2.jpg)
+![@曹舒茗](/asset/img/2024-11-22/Certify/获奖证明1.jpg)
+![@吴锶梦](/asset/img/2024-11-22/Certify/获奖证明3.jpg)
+![@所有人](/asset/img/2024-11-22/Certify/获奖证明6.jpg)
+![@吴锶梦](/asset/img/2024-11-22/Certify/获奖证明4.jpg)
+![@吴梓霆](/asset/img/2024-11-22/Certify/获奖证明5.jpg)
+{% endswiper %}
+{% swiper effect:cards %}
+![点位](/asset/img/2024-11-22/scene/1.jpg)
+![千岛湖！](/asset/img/2024-11-22/scene/2.jpg)
+![短距起点](/asset/img/2024-11-22/scene/3.jpg)
+![绝美千岛湖](/asset/img/2024-11-22/scene/4.jpg)
+![出征！](/asset/img/2024-11-22/scene/5.jpg)
+![出征！](/asset/img/2024-11-22/scene/6.jpg)
+{% endswiper %}
 我们的队员们都非常棒！赛出水平！赛出风采！
 {% endtimeline %}
 
