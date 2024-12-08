@@ -6,7 +6,7 @@ title: 成员介绍
 
 {% grid w:350px %}
 <!-- cell -->
-{% image /asset/img/avatar/2021-Blue_avatar.jpeg %}
+{% image /asset/img/avatar/2021-Blue_avatar.jpg %}
 <!-- cell -->
 **[何昊蓝](https://blue-coconut.github.io/)**
 
