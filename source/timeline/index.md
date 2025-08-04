@@ -36,6 +36,29 @@ date: 2024-12-05 14:45:45
 ![出征！](/asset/img/2024-11-22/scene/6.jpg)
 {% endswiper %}
 我们的队员们都非常棒！赛出水平！赛出风采！
+<!-- node 2025 年 7 月 29 日 -->
+我们第一次代表学校参加了全国性的定向比赛，2025全国青少年定向锦标赛！
+{% box child:tabs %}
+{% tabs %}
+<!-- tab 曹舒茗W20组百米赛十六名（国三） -->
+{% image /asset/img/2025-7-29/Certify/csm.jpg download:/asset/img/2025-7-29/Certify/csm.jps%}
+<!-- tab 吴梓霆M20B组百米赛第十八名（国三）-->
+{% image /asset/img/2025-7-29/Certify/wzt.jpg download:/asset/img/2025-7-29/Certify/wzt.jps%}
+<!-- tab 张慧源M20A组百米赛第二十名（国三） -->
+{% image /asset/img/2025-7-29/Certify/zhy.jpg download:/asset/img/2025-7-29/Certify/zhy.jps%}
+<!-- tab 大合影 -->
+{% image /asset/img/2025-7-29/接力赛前合影.jps download:/asset/img/2025-7-29/接力赛前合影.jps%}
+{% endtabs %}
+{% endbox %}
+
+{% swiper effect:cards %}
+![](/assets/img/2025-7-29/百米场地.jpg)
+![](/assets/img/2025-7-29/接力赛前合影.jpg)
+![](/assets/img/2025-7-29/证书合影.jpg)
+![](/assets/img/2025-7-29/中距离复盘前合影.jpg)
+![](/assets/img/2025-7-29/wzt.jpg)
+![](/assets/img/2025-7-29/zhy.jpg)
+{% endswiper %}
 {% endtimeline %}
 
 
