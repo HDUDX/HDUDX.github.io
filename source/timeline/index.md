@@ -52,12 +52,12 @@ date: 2024-12-05 14:45:45
 {% endbox %}
 
 {% swiper effect:cards %}
-![](/assets/img/2025-7-29/百米场地.jpg)
-![](/assets/img/2025-7-29/接力赛前合影.jpg)
-![](/assets/img/2025-7-29/证书合影.jpg)
-![](/assets/img/2025-7-29/中距离复盘前合影.jpg)
-![](/assets/img/2025-7-29/wzt.jpg)
-![](/assets/img/2025-7-29/zhy.jpg)
+![](/asset/img/2025-7-29/百米场地.jpg)
+![](/asset/img/2025-7-29/接力赛前合影.jpg)
+![](/asset/img/2025-7-29/证书合影.jpg)
+![](/asset/img/2025-7-29/中距离复盘前合影.jpg)
+![](/asset/img/2025-7-29/wzt.jpg)
+![](/asset/img/2025-7-29/zhy.jpg)
 {% endswiper %}
 {% endtimeline %}
 
