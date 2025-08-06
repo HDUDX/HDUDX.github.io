@@ -1,6 +1,6 @@
 ---
 title: 2025全国青少年向锦标赛
-cover: ../asset/img/hdudxFlag.png
+cover: /asset/img/2025-7-29/slogan.jpg
 leftbar: ['ghuser']
 ---
 
@@ -9,6 +9,8 @@ leftbar: ['ghuser']
 - 曹舒茗 W20组百米定向赛第十六名
 - 吴梓霆 M20B组百米定向赛第十八名
 - 张慧源 M20A组百米定向赛第二十名
+
+![](/asset/2025-7-29/证书合影.jpg)
 
 让我们恭喜获奖的同学们，同时鼓励各位同学们积极参赛。
 
