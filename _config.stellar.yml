@@ -26,6 +26,11 @@ menubar:
       title: 关于
       icon: ''
       url: /about/
+    - id: resources
+      theme: '#FF9800'
+      title: 资源
+      icon: ''
+      url: /resources/
 logo:
   subtitle: '定位人生，瞄准方向 | 自我挑战，共创辉煌'
 
